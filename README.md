@@ -31,3 +31,6 @@ Students can:
 
 \- View examination results
 
+## Validation
+
+The system contains login, examination, and result validation.
