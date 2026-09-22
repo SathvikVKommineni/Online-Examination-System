@@ -2,8 +2,7 @@
 
 
 
-This project demonstrates an Online Examination System using Git and GitHub.
-
+This project demonstrates a web-based Online Examination System using Git and GitHub.
 
 
 \## Features
