@@ -2,7 +2,7 @@
 
 
 
-This project demonstrates Git and GitHub version control.
+This project demonstrates an Online Examination System using Git and GitHub.
 
 
 
@@ -15,6 +15,7 @@ This project demonstrates Git and GitHub version control.
 \- Question management
 
 \- Result calculation
+
 ## Examination Module
 
 
