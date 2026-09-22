@@ -1,4 +1,10 @@
 Login Module
+============
 
 Username: student
 Password: ********
+
+Login functionality has been added.
+
+Students can log into the Online Examination System
+using their registered username and password.
